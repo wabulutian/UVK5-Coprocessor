@@ -7,6 +7,8 @@ The document here is not finished yet, you can move to OSHWHub first (only Chine
 
 这边的文档还在写，可以先移步OSHWHub
 
+（审核可能还没过，等着罢）
+
 http://oshwhub.com/455360a/uvk5-cp
 
 UVK5 firmware is in 
